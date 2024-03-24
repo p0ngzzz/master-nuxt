@@ -2,6 +2,7 @@
   <div id="user">
     <div class="user-table">
       <h1>I am Natthawadee Hnaknan</h1>
+      <h1>I am 27 years old</h1>
       <table>
         <thead>
           <tr>
