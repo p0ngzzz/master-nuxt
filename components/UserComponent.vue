@@ -1,6 +1,6 @@
 <template>
   <div id="user">
-    <div class="user-table">
+    <!-- <div class="user-table">
       <table>
         <thead>
           <tr>
@@ -15,7 +15,7 @@
           </tr>
         </tbody>
       </table>
-    </div>
+    </div> -->
   </div>
 </template>
 
