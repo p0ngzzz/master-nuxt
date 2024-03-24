@@ -1,6 +1,7 @@
 <template>
   <div id="user">
     <div class="user-table">
+      <h1>I am Natthawadee Hnaknan</h1>
       <table>
         <thead>
           <tr>
