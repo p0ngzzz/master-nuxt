@@ -1,5 +1,6 @@
 <template>
   <div id="user">
+    <h2>use old version already</h2>
     <!-- <div class="user-table">
       <table>
         <thead>
